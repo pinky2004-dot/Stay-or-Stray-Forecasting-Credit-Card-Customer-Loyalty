@@ -1,1 +1,1 @@
-# Stay-or-Stray-Forecasting-Credit-Card-Customer-Loyalty
+# Stay or Stray: Forecasting Credit Card Customer Loyalty
